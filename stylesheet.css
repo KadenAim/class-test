@@ -1,1 +1,28 @@
+/* samples of each */
+.sample1 {
+    letter-spacing: 40px;
+}
 
+.sample2 {
+    word-spacing: 40px;
+}
+
+body{
+    font-size: 20px;
+}
+
+.exleft {
+    text-align: left;
+}
+
+.exright {
+    text-align: right;
+}
+
+.excenter{
+    text-align: center;
+}
+
+.exjustify{
+    text-align: justify; 
+}
